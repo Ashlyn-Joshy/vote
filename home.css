@@ -5,14 +5,12 @@
     height: 100%;
 }
 .div2{
-    float: left;
-    
+    float: left;   
     width: 50%;
     height: 100%;
 }
 .para{
     color: white;
-    margin-top: 204px;
     margin-left: 5%;
 }
 img{
@@ -35,4 +33,13 @@ body{
 a{
     text-decoration: none;
     color: white;
+}
+input{
+    border-radius: 15px;
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ffffff;
+    box-sizing: border-box;
 }
