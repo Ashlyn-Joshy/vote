@@ -1,0 +1,38 @@
+.div1{
+    float: left;
+    
+    width: 50%;
+    height: 100%;
+}
+.div2{
+    float: left;
+    
+    width: 50%;
+    height: 100%;
+}
+.para{
+    color: white;
+    margin-top: 204px;
+    margin-left: 5%;
+}
+img{
+    width: 90%;
+    height: auto;
+    border-radius: 40%;
+    margin-top: 10%;
+    
+}
+body{
+    background-color: #57CC99;
+    margin-top: 0%;
+}
+.btn{
+    background-color: #22577A;
+    border-radius: 15px;
+    padding: 15px;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
