@@ -1,6 +1,5 @@
 .div1{
-    float: left;
-    
+    float: left;   
     width: 50%;
     height: 100%;
 }
@@ -36,10 +35,17 @@ a{
 }
 input{
     border-radius: 15px;
-    width: 75%;
+    width: 65%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ffffff;
     box-sizing: border-box;
+}
+.divdown{
+    margin-left: 25%;
+}
+h2{
+    color: #22577A;
+    text-decoration: solid;
 }
